@@ -8,15 +8,15 @@
 tasks such as network calls asynchronously**' OR
 '**Reactive Programming Is Programming With Asynchronous Data Streams**'
 
-* For an instance say your application calls an external REST API or a database,
-you can do that invocation asynchronously. If you do so your current thread does not block.
-You can serve lots of requests by merely spawning one or few threads.
-If you follow blocking approach you need to have one thread to handle each and every request.
+## The problem
 
-* Other than that you may use callbacks to do the same.
-You can do asynchronous invocation using callbacks.
-But if you do so sometimes you may ended up with callback hell. Having one callback
-inside another leads to very complex codes which are very hard to maintain.
+![](pics/Bildschirmfoto 2019-01-27 um 17.05.18.png)
+![](pics/Bildschirmfoto 2019-01-27 um 17.06.29.png)
+
+## The solution
+![](pics/Bildschirmfoto 2019-01-27 um 17.07.06.png)
+![](pics/Bildschirmfoto 2019-01-27 um 17.07.47.png)
+![](pics/Bildschirmfoto 2019-01-27 um 17.08.37.png)
 
 ## RxJava
 
