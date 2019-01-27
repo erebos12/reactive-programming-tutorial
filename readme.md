@@ -10,13 +10,28 @@ tasks such as network calls asynchronously**' OR
 
 ## The problem
 
-![](pics/Bildschirmfoto 2019-01-27 um 17.05.18.png)
-![](pics/Bildschirmfoto 2019-01-27 um 17.06.29.png)
+<table><tr><td>
+<img align="center" src="./pics/Bildschirmfoto 2019-01-27 um 17.05.18.png" title="Convolution Step - Feature Detector" width="700">
+</td></tr></table>
+
+<table><tr><td>
+<img align="center" src="./pics/Bildschirmfoto 2019-01-27 um 17.06.29.png" title="Convolution Step - Feature Detector" width="700">
+</td></tr></table>
+
 
 ## The solution
-![](pics/Bildschirmfoto 2019-01-27 um 17.07.06.png)
-![](pics/Bildschirmfoto 2019-01-27 um 17.07.47.png)
-![](pics/Bildschirmfoto 2019-01-27 um 17.08.37.png)
+<table><tr><td>
+<img align="center" src="./pics/Bildschirmfoto 2019-01-27 um 17.07.06.png" title="Convolution Step - Feature Detector" width="700">
+</td></tr></table>
+
+<table><tr><td>
+<img align="center" src="./pics/Bildschirmfoto 2019-01-27 um 17.07.47.png" title="Convolution Step - Feature Detector" width="700">
+</td></tr></table>
+
+<table><tr><td>
+<img align="center" src="./pics/Bildschirmfoto 2019-01-27 um 17.08.37.png" title="Convolution Step - Feature Detector" width="700">
+</td></tr></table>
+
 
 ## RxJava
 
